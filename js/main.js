@@ -28,7 +28,6 @@ checkForMatch();
 flipCard(0);
 flipCard(2);
 
-// functions
 
 
 
